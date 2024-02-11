@@ -1,0 +1,10 @@
+.bg-style{
+    background-color: rgb(222, 184, 135);
+   color: rgb(26, 24, 24);
+}
+.dark{
+    text-transform: capitalize;
+}
+.dull{
+    color: rgba(226, 224, 224, 0.6);
+}
